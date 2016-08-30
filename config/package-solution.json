@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "test-sp-framework-client-side-solution",
+    "id": "613498e2-c540-4188-883c-4906944c5e88",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "test-sp-framework.spapp"
+  }
+}
